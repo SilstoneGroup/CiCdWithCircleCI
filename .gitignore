@@ -1,0 +1,4 @@
+*__pycache*
+*.idea*
+*db*
+*coverage
